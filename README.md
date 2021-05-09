@@ -40,9 +40,6 @@ I'm an Undergrad Student🎓 pursuing B.Tech in CSE from  [KIIT](https://kiit.ac
 - 📷 Fun fact: I ❤️ Photography and Travelling. 
 
 <div align="center">
-    [Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv-am2608&layout=compact)
-<div>
-<div align="center">
 
 ### THINK TWICE, CODE ONCE!!!
 
