@@ -7,9 +7,6 @@
         <a href="https://www.instagram.com/shiv_am">
         <img align="left" alt="Shivam | Instagram" width="22px" height="22px" src="https://i1.wp.com/brainfartsy.com/wp-content/uploads/2018/07/instagram-neon-01.png" />
         </a>
-        <a href="https://techx101.tech">
-        <img align="left" alt="Shivam's Instagram" width="22px" height="22px" src="https://cdn2.iconfinder.com/data/icons/neon-line-social-circles/100/Neon_Line_Social_Circles_50Icon_10px_grid-06-256.png" />
-        </a>
     </td>
     <tr>
 </table>
