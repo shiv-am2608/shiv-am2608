@@ -11,7 +11,7 @@
         <img align="left" alt="Shivam | GeeksForGeeks" width="22px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" />
         </a>
         <a href="https://www.hackerrank.com/Shiv_am">
-        <img align="left" alt="Shivam | Hackerrank" width="22px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" />
+        <img align="left" alt="Shivam | Hackerrank" width="22px" src=https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />
         </a>
         </a>
         <a href="https://www.codechef.com/users/shiv_am26">
