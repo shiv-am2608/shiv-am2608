@@ -2,7 +2,7 @@
     <tr>
     <td  align="center">
         <a href="https://www.linkedin.com/in/shivam2608/">
-        <img align="left" alt="Shivam | LinkdeIN" width="22px" src="https://cdn.imgbin.com/7/2/20/imgbin-linkedin-cuUL2VG2VGgyy8qC4LY4LWxvy.jpgg" />
+        <img align="left" alt="Shivam | LinkdeIN" width="22px" src="https://cdn.imgbin.com/7/2/20/imgbin-linkedin-cuUL2VG2VGgyy8qC4LY4LWxvy.jpg" />
         </a>
         <a href="https://www.instagram.com/shiv_am">
         <img align="left" alt="Shivam | Instagram" width="22px" height="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
