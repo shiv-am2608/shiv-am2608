@@ -7,6 +7,9 @@
         <a href="https://www.instagram.com/shiv_am">
         <img align="left" alt="Shivam | Instagram" width="22px" height="22px" src="https://i1.wp.com/brainfartsy.com/wp-content/uploads/2018/07/instagram-neon-01.png" />
         </a>
+        <a href="https://auth.geeksforgeeks.org/user/shivam2608/practice/">
+        <img align="left" alt="Shivam | GeeksForGeeks" width="22px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" />
+        </a>
     </td>
     <tr>
 </table>
