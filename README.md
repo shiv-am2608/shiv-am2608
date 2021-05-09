@@ -39,7 +39,9 @@ I'm an Undergrad Student🎓 pursuing B.Tech in CSE from  [KIIT](https://kiit.ac
 - 😄 Scored 450 marks in Global Assessment of Information Technology[(GAIT)](https://drive.google.com/file/d/1i191OFqaTyuc7TcWdwOtX4aXyAvxPmXt/view) test(AIR 149 among 6500+ participants).
 - 📷 Fun fact: I ❤️ Photography and Travelling. 
 
-
+<div align="center">
+    ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv-am2608)
+<div>
 <div align="center">
 
 ### THINK TWICE, CODE ONCE!!!
