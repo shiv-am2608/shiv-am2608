@@ -11,7 +11,7 @@
         <img align="left" alt="Shivam | GeeksForGeeks" width="22px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" />
         </a>
         <a href="https://www.hackerrank.com/Shiv_am">
-        <img align="left" alt="Shivam | Hackerrank" width="22px" src="https://www.pngitem.com/pimgs/m/0-1917_hackerrank-hackerrank-icon-hd-png-download.png" />
+        <img align="left" alt="Shivam | Hackerrank" width="22px" src="https://img1.pnghut.com/21/14/10/ud0gP4K4V4/application-programming-interface-brand-trademark-symbol-php.jpg" />
         </a>
         </a>
         <a href="https://www.codechef.com/users/shiv_am26">
@@ -28,16 +28,16 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height=300 width=300/>
 
 #### A little about me...  
-I'm an **Undergrad Student🎓 [@KIIT](https://kiit.ac.in/) pursuing B.Tech in CSE(2022). I love to explore new technologies 
+I'm an **Undergrad Student🎓 [KIIT](https://kiit.ac.in/) pursuing B.Tech in CSE(2022). I love to explore new technologies 
 and leverage them to solve real-life problems.
 
 ### Talking about Personal Stuff:
 
-- 🔭 I’m currently an Intern at [@HighRadius](https://www.highradius.com/)
+- 🔭 I’m currently an Intern at [HighRadius](https://www.highradius.com/)
 - 🌱 Proficient in Java.
-- 🥅 Solved 250+ Problems on [@GeeksForGeeks](https://auth.geeksforgeeks.org/user/shivam2608/practice/)
-- 💬 5 Star in Java in [@Hackerrank](https://www.hackerrank.com/Shiv_am).
-- 😄 Scored 450 marks in Global Assessment of Information Technology[@(GAIT)](https://drive.google.com/file/d/1i191OFqaTyuc7TcWdwOtX4aXyAvxPmXt/view) test(AIR 149 among 6500+ participants)
+- 🥅 Solved 250+ Problems on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shivam2608/practice/)
+- 💬 5 Star in Java in [Hackerrank](https://www.hackerrank.com/Shiv_am).
+- 😄 Scored 450 marks in Global Assessment of Information Technology[(GAIT)](https://drive.google.com/file/d/1i191OFqaTyuc7TcWdwOtX4aXyAvxPmXt/view) test(AIR 149 among 6500+ participants)
 - ⚡ Fun fact: I ❤️ Photography and Travelling. 
 
 
