@@ -33,12 +33,12 @@ and leverage them to solve real-life problems.
 
 ### Talking about Professional Stuff:
 
-- 🔭 I’m currently an Intern at [HighRadius](https://www.highradius.com/)
-- 🌱 Proficient in Java.
+- 🌱 I’m currently an Intern at [HighRadius](https://www.highradius.com/)
+- 💻 Proficient in Java.
 - 🥅 Solved 250+ Problems on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shivam2608/practice/)
-- 💬 5 Star in Java in [Hackerrank](https://www.hackerrank.com/Shiv_am).
+- ⭐ 5 Star in Java in [Hackerrank](https://www.hackerrank.com/Shiv_am).
 - 😄 Scored 450 marks in Global Assessment of Information Technology[(GAIT)](https://drive.google.com/file/d/1i191OFqaTyuc7TcWdwOtX4aXyAvxPmXt/view) test(AIR 149 among 6500+ participants)
-- ⚡ Fun fact: I ❤️ Photography and Travelling. 
+- 📷 Fun fact: I ❤️ Photography and Travelling. 
 
 
 <div align="center">
