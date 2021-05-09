@@ -28,7 +28,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height=300 width=300/>
 
 #### A little about me...  
-I'm an Undergrad Student🎓 pursuing B.Tech in CSE from  [KIIT](https://kiit.ac.in/) University (Graduation Year 2022).   I love to explore new technologies,generate new ideas and devise feasible solutions to real life problems.
+I'm an Undergrad Student🎓 pursuing B.Tech in CSE from  [KIIT](https://kiit.ac.in/) University (Graduation Year 2022).<br>I love to explore new technologies,generate new ideas and devise feasible solutions to real life problems.
 
 ### Talking about Professional Stuff:
 
