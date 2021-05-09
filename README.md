@@ -28,13 +28,13 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height=300 width=300/>
 
 #### A little about me...  
-I'm an Undergrad Student🎓 pursuing B.Tech in CSE from  [KIIT](https://kiit.ac.in/)(Graduation Year 2022). I love to explore new technologies,generate new ideas and devise feasible solutions to real life problems.
+I'm an Undergrad Student🎓 pursuing B.Tech in CSE from  [KIIT](https://kiit.ac.in/) University (Graduation Year 2022). I love to explore new technologies,generate new ideas and devise feasible solutions to real life problems.
 
 ### Talking about Professional Stuff:
 
-- 🌱 I’m currently an Intern at [HighRadius](https://www.highradius.com/)/
+- 🌱 I’m currently an Intern at [HighRadius](https://www.highradius.com/).
 - 💻 Proficient in Java.
-- 🥅 Solved 250+ Problems on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shivam2608/practice/)/
+- 🥅 Solved 250+ Problems on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shivam2608/practice/).
 - ⭐ 5 Star in Java in [Hackerrank](https://www.hackerrank.com/Shiv_am).
 - 😄 Scored 450 marks in Global Assessment of Information Technology[(GAIT)](https://drive.google.com/file/d/1i191OFqaTyuc7TcWdwOtX4aXyAvxPmXt/view) test(AIR 149 among 6500+ participants).
 - 📷 Fun fact: I ❤️ Photography and Travelling. 
