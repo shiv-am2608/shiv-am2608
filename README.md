@@ -34,7 +34,7 @@ I'm an Undergrad Student🎓 pursuing B.Tech in CSE from  [KIIT](https://kiit.ac
 ### Talking about Professional Stuff:
 
 - 💻 Proficient in Java.
-- 🥅 Solved 350+ Problems on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shivam2608/practice/).
+- 🥅 Solved 450+ Problems on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shivam2608/practice/).Institute Rank 10/4900+ Students
 - ⭐ 5 Star in Java in [Hackerrank](https://www.hackerrank.com/Shiv_am).
 - 😄 Scored 450 marks in Global Assessment of Information Technology[(GAIT)](https://drive.google.com/file/d/1i191OFqaTyuc7TcWdwOtX4aXyAvxPmXt/view) test(AIR 149 among 6500+ participants).
 - 📷 Fun fact: I ❤️ Photography and Travelling. 
