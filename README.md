@@ -29,7 +29,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shiv-am2608&color=4AB197&label=Profile+Views)
 #### A little about me...  
-💻Working as a Software Development Engineer at Amazon. 🎓 B.Tech graduate in CSE from  [KIIT](https://kiit.ac.in/) University (Graduation Year 2022).I love to explore new technologies,generate new ideas and devise feasible solutions to real life problems.
+💻Working as a Software Development Engineer at Amazon. Developing event based microservices for Alexa Devices. 🎓 B.Tech graduate in CSE from  [KIIT](https://kiit.ac.in/) University (Graduation Year 2022).I love to explore new technologies,generate new ideas and devise feasible solutions to real life problems.
 
 ### Talking about Professional Stuff:
 
