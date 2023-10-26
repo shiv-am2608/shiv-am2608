@@ -29,11 +29,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shiv-am2608&color=4AB197&label=Profile+Views)
 #### A little about me...  
-💻Working as a Software Development Engineer at Amazon. Developing event based microservices for Alexa Devices. 🎓 B.Tech graduate in CSE from  [KIIT](https://kiit.ac.in/) University (Graduation Year 2022).I love to explore new technologies,generate new ideas and devise feasible solutions to real life problems.
+💻Working as a Software Development Engineer at Amazon. Developing event-based microservices and a Real-Time Data Platform for Alexa Devices. 🎓 B.Tech graduate in CSE from  [KIIT](https://kiit.ac.in/) University (Graduation Year 2022).I love to explore new technologies, generate new ideas, and devise feasible solutions to real-life problems.
 
 ### Talking about Professional Stuff:
 
-- 💻 Proficient in Java, Python and Cloud Technologies.
+- 💻 Proficient in Java and Native AWS Services.
 - 🥅 Solved 450+ Problems on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shivam2608/practice/). Institute Rank 8/5900+
 - ⭐ 5 Star in Java in [Hackerrank](https://www.hackerrank.com/Shiv_am).
 - 😄 Scored 450 marks in Global Assessment of Information Technology[(GAIT)](https://drive.google.com/file/d/1i191OFqaTyuc7TcWdwOtX4aXyAvxPmXt/view) test(AIR 149 among 6500+ participants).
